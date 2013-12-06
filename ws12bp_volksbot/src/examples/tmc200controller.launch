@@ -1,0 +1,13 @@
+<launch>
+<!--  <machine name="iki" address="192.168.1.102" default="true"/> -->
+  <node name="tmc200controller" pkg="tmc200ctrl" type="tmc200controller" args="$(arg port)">
+	<param name="Mode" value="0" />
+	<param name="VelocityFeedbackVerbosity" value="5" />
+	<param name="EncoderConstants" value="M1 1 2 3" />
+	<param name="RotationAngleConstant" value="42" />
+	<param name="VelocityRegulatorsConstants" value="M1 3 2 1" />
+	<param name="AutorepeatVelociyCommand" value="true" />
+	<param name="CutOffMotorsTimeout" value="2 0" />
+
+  </node>
+</launch>

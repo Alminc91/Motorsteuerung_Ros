@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="12cm" height="7cm" viewBox="-1 1 225 121" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <polygon style="fill: #a52a2a" points="0.316596,1.63011 151.253,1.84198 151.253,24.8614 79.2516,24.6774 79.3692,17.4541 0.139821,17.805 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" points="0.316596,1.63011 151.253,1.84198 151.253,24.8614 79.2516,24.6774 79.3692,17.4541 0.139821,17.805 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffa500" x="0" y="84" width="151.223" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="0" y="84" width="151.223" height="20"/>
+    <text font-size="6.77333" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="75.6114" y="96.0667">
+      <tspan x="75.6114" y="96.0667">libtmc200ctrl_io</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #90ee90" x="0" y="104" width="151.223" height="17.4667"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="0" y="104" width="151.223" height="17.4667"/>
+    <text font-size="6.77333" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="75.6114" y="114.8">
+      <tspan x="75.6114" y="114.8">TMC200 controller hardware</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffff00" x="-0.0618328" y="16.7941" width="79.3133" height="67.2059"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="-0.0618328" y="16.7941" width="79.3133" height="67.2059"/>
+    <text font-size="6.77333" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="39.5948" y="52.4637">
+      <tspan x="39.5948" y="52.4637">libtmc200ctrl_direct</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #1e90ff" x="79.2154" y="24.2308" width="72.122" height="31.8174"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="79.2154" y="24.2308" width="72.122" height="31.8174"/>
+    <text font-size="6.77333" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="115.276" y="42.2062">
+      <tspan x="115.276" y="42.2062">ROS infrastructure</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffff00" x="79.2268" y="56.0715" width="71.969" height="27.9136"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="79.2268" y="56.0715" width="71.969" height="27.9136"/>
+    <text font-size="6.77333" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="115.211" y="67.8616">
+      <tspan x="115.211" y="67.8616">tmc200-</tspan>
+      <tspan x="115.211" y="76.3283">controller node</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="73.5001" y1="101.509" x2="73.4977" y2="106.203"/>
+    <polygon style="fill: #000000" points="76.0001,101.51 73.5025,96.5088 71.0001,101.508 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="76.0001,101.51 73.5025,96.5088 71.0001,101.508 "/>
+    <polygon style="fill: #000000" points="70.9977,106.202 73.4953,111.203 75.9977,106.204 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="70.9977,106.202 73.4953,111.203 75.9977,106.204 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="31.8521" y1="81.7148" x2="31.8497" y2="86.4088"/>
+    <polygon style="fill: #000000" points="34.3521,81.716 31.8545,76.7148 29.3521,81.7136 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="34.3521,81.716 31.8545,76.7148 29.3521,81.7136 "/>
+    <polygon style="fill: #000000" points="29.3497,86.4076 31.8473,91.4088 34.3497,86.41 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="29.3497,86.4076 31.8473,91.4088 34.3497,86.41 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="95.6877" y1="81.9846" x2="95.6853" y2="86.6784"/>
+    <polygon style="fill: #000000" points="98.1877,81.9858 95.6901,76.9846 93.1877,81.9834 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="98.1877,81.9858 95.6901,76.9846 93.1877,81.9834 "/>
+    <polygon style="fill: #000000" points="93.1853,86.6772 95.6829,91.6784 98.1853,86.6796 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="93.1853,86.6772 95.6829,91.6784 98.1853,86.6796 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="118.242" y1="53.84" x2="118.24" y2="58.5338"/>
+    <polygon style="fill: #000000" points="120.742,53.8412 118.244,48.84 115.742,53.8388 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="120.742,53.8412 118.244,48.84 115.742,53.8388 "/>
+    <polygon style="fill: #000000" points="115.74,58.5326 118.237,63.5338 120.74,58.535 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="115.74,58.5326 118.237,63.5338 120.74,58.535 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="116.939" y1="22.3608" x2="116.937" y2="27.0548"/>
+    <polygon style="fill: #000000" points="119.439,22.362 116.942,17.3608 114.439,22.3595 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="119.439,22.362 116.942,17.3608 114.439,22.3595 "/>
+    <polygon style="fill: #000000" points="114.437,27.0536 116.934,32.0548 119.437,27.056 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="114.437,27.0536 116.934,32.0548 119.437,27.056 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="31.9971" y1="15.2613" x2="31.9947" y2="19.9554"/>
+    <polygon style="fill: #000000" points="34.4971,15.2626 31.9995,10.2613 29.4971,15.2601 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="34.4971,15.2626 31.9995,10.2613 29.4971,15.2601 "/>
+    <polygon style="fill: #000000" points="29.4947,19.9542 31.9923,24.9554 34.4947,19.9566 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="29.4947,19.9542 31.9923,24.9554 34.4947,19.9566 "/>
+  </g>
+  <g>
+    <rect style="fill: #bfbfbf" x="151.064" y="1.6793" width="72" height="22.1237"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="151.064" y="1.6793" width="72" height="22.1237"/>
+    <text font-size="6.77333" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="187.064" y="14.8078">
+      <tspan x="187.064" y="14.8078">libtmc200ctrl_utils</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="149" y1="9.05006" x2="153.4" y2="9.05006"/>
+    <polygon style="fill: #000000" points="149,6.55006 144,9.05006 149,11.5501 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="149,6.55006 144,9.05006 149,11.5501 "/>
+    <polygon style="fill: #000000" points="153.4,11.5501 158.4,9.05006 153.4,6.55006 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="153.4,11.5501 158.4,9.05006 153.4,6.55006 "/>
+  </g>
+  <text font-size="7.90222" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="72.9026" y="12.9369">
+    <tspan x="72.9026" y="12.9369">Application</tspan>
+  </text>
+</svg>

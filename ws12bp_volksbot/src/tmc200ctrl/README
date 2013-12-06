@@ -1,0 +1,2 @@
+This ROS package contains the tmc200controller node that provides access
+to the TMC200 motorcontroller.

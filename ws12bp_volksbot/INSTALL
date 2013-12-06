@@ -1,0 +1,14 @@
+To compile, execute the following steps in the folder
+where you have cloned the project repository.
+
+1. Edit '/opt/ros/groovy/share/catkin/cmake/toplevel.cmake':
+   Insert the line 'include(workspace.cmake OPTIONAL)' right
+   after 'cmake_minimum_required'.
+
+2. $ source /opt/ros/groovy/setup.bash
+
+3. $ catkin_make -DCMAKE_BUILD_TYPE=<DEBUG|RELEASE>
+
+   In case of failure add the flag '-k' to the catkin_make command.
+   Then execute this command a few times until everything has been built successfully.
+

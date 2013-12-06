@@ -1,0 +1,4 @@
+uint8 motor		#Motor
+uint16 encres	#Encoder resolution
+uint16 rpm		#Rotation per minutes
+uint16 delta	#Distance per encoder step

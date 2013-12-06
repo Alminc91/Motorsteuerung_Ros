@@ -1,0 +1,8 @@
+!doc/images
+!doc/*.odt
+!doc/*.pdf
+doc/html
+devel/
+build/
+*~
+*.bak
